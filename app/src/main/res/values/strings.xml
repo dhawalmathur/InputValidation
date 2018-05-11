@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InputValidation</string>
+    <string name="placeholder_email">Email</string>
+    <string name="placeholder_password">Password</string>
+    <string name="str_email">Enter email address</string>
+    <string name="str_password">Enter password</string>
+    <string name="str_buttonA">Activity A Button</string>
+    <string name="err_emptyEmail">Please enter your email address</string>
+    <string name="err_emptyPassword">Please enter a desired password</string>
+    <string name="err_invalidEmail">Please enter a valid email address</string>
+    <string name="err_shortPassword">Password must be at-least 8 characters long</string>
+</resources>

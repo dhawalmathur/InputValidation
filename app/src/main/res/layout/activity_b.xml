@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="50dp"
+    android:layout_gravity="top"
+    android:orientation="vertical"
+    tools:context=".ActivityB">
+
+    <TextView
+        android:id="@+id/text_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Email: "
+        android:textColor="@android:color/black"
+        android:textSize="15sp"/>
+
+    <TextView
+        android:id="@+id/text_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="Password: "
+        android:textColor="@android:color/black"
+        android:textSize="15sp"/>
+
+</LinearLayout>
